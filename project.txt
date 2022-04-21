@@ -5,3 +5,4 @@ Jane is a Data Scientist
 Samit is a Statistician
 
 Roles within the project need to be determined.
+We may need a Research Software Engineer to support R and Python programming.
