@@ -1,0 +1,1 @@
+Data required: data about patient, wards, dates, temperatures and inflammation size.
